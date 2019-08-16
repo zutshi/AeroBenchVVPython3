@@ -1,0 +1,11 @@
+*~
+*.pyc
+TAGS
+*.png
+*.gif
+*.so
+*.mp4
+*Debug/
+\#*\#
+.\#*
+*_flymake.py
